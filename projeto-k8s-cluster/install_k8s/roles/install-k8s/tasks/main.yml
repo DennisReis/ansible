@@ -1,0 +1,3 @@
+---
+# tasks file for instal_k8s
+- include: install.yml
